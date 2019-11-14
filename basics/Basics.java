@@ -8,6 +8,16 @@ public class Basics{
     // the main method always look exactly like this
     public static void main(String[] args) {
         System.out.println("Hello and good morning");
+        int i = 1;
+        float j = 1;
+        String x, y = null;
+
+         x = ((Object)i).getClass().getSimpleName();
+        if((Object)j instanceof Float){y = "float";}
+        if((Object)i instanceof String){x = "String";}
+
+        System.out.println("x:" + x) ;
+        System.out.println("y:" + y) ;
         if(isGingerCold()){
             System.out.println("Get ginger a sweater");
         } else {
