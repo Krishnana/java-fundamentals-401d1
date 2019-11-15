@@ -12,7 +12,7 @@ See possibility of getting number of heads in a row when you flip a coin.
 ### Command Line Clock
 See the clock ticking in seconds and the speed of your PC in MHz.
 
-# Lab2
+# Basic Library
 ### Roll Dice
 Provides results from dice rolls into an array
 
