@@ -2,9 +2,9 @@
     "configurations": [
         {
             "type": "java",
-            "name": "CodeLens (Launch) - Lab02",
+            "name": "CodeLens (Launch) - Basics",
             "request": "launch",
-            "mainClass": "lab2.Lab02"
+            "mainClass": "Basics"
         }
     ]
 }
